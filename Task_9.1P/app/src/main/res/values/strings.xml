@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LostFoundApp</string>
+    <string name="lat_lng_format">Lat: %1$.6f, Lng: %2$.6f</string>
+    <string name="select_status_prompt">Please select Lost or Found</string>
+    <string name="select_location_prompt">Please select a location</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="item_added">Item added!</string>
+    <string name="item_add_failed">Failed to add item</string>
+    <string name="invalid_location_selected">Invalid location selected</string>
+
+</resources>
