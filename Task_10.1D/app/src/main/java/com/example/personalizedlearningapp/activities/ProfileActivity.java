@@ -37,7 +37,6 @@ public class ProfileActivity extends AppCompatActivity {
         usernameView.setText(SharedPrefManager.getInstance(this).getUsername());
         emailView.setText(SharedPrefManager.getInstance(this).getEmail());
 
-        // Set dummy stats or fetch from Room in later phase
         totalQuestionsView.setText("Total Questions: 12");
         correctAnswersView.setText("Correct Answers: 9");
         wrongAnswersView.setText("Wrong Answers: 3");
